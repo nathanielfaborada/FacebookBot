@@ -1,0 +1,11 @@
+# Virtual environment
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Account data file
+account/account_data.json
+
+# Python cache files
+__pycache__/
+*.pyc
